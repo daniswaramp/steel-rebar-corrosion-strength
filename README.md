@@ -3,7 +3,7 @@
 Predicting the residual yield force of corroded steel bars from 1,349 tensile tests across 26 published
 campaigns, with the pitting notch effect separated from uniform thinning three ways.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/corroded-steel-yield-force/blob/main/notebooks/corroded_steel_ML.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/steel-rebar-corrosion-strength/blob/main/notebooks/corroded_steel_ML.ipynb)
 
 ## What this adds
 
